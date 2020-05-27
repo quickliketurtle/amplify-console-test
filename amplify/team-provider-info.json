@@ -1,0 +1,25 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-amplifyconsoletest-dev-192220-authRole",
+            "UnauthRoleArn": "arn:aws:iam::249438183515:role/amplify-amplifyconsoletest-dev-192220-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::249438183515:role/amplify-amplifyconsoletest-dev-192220-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-amplifyconsoletest-dev-192220-deployment",
+            "UnauthRoleName": "amplify-amplifyconsoletest-dev-192220-unauthRole",
+            "StackName": "amplify-amplifyconsoletest-dev-192220",
+            "StackId": "arn:aws:cloudformation:us-west-2:249438183515:stack/amplify-amplifyconsoletest-dev-192220/eb63b9a0-9fc0-11ea-a87e-069045656416",
+            "AmplifyAppId": "d2at6gxj78eptp"
+        },
+        "categories": {
+            "api": {
+                "amplifyconsoletest": {
+                    "rdsRegion": "us-west-2",
+                    "rdsClusterIdentifier": "arn:aws:rds:us-west-2:249438183515:cluster:amplify-console-test",
+                    "rdsSecretStoreArn": "arn:aws:secretsmanager:us-west-2:249438183515:secret:rds-db-credentials/cluster-P7JUXRCID4G7IXKMF7UQVXXVTA/admin-jB8EwP",
+                    "rdsDatabaseName": "MarketPlace"
+                }
+            }
+        }
+    }
+}
